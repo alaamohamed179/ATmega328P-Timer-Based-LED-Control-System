@@ -52,7 +52,7 @@ Button 2| D3| PD3
 - Used to generate a delay for button debouncing.
 - Helps prevent multiple activations caused by a single button press.
 
-🎮 System Operation
+## 🎮 System Operation
 
 Button 1 – Blinking Speed Control
 
@@ -75,7 +75,7 @@ Extra LED
 
 The LED connected to PB2 remains ON to indicate that the system is running.
 
-💻 Software and Tools
+## 💻 Software and Tools
 
 - Arduino IDE / AVR C++.
 - SimulIDE.
